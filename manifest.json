@@ -1,0 +1,26 @@
+{
+  "name": "TOPS 닥터엠디AI",
+  "short_name": "TOPS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0F1A",
+  "theme_color": "#0C0F1A",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/2563EB/fff?text=TOPS",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+```
+
+---
+
+### 완료 후 저장소 모습
+```
+tops-app/
+├── README.md
+├── index.html
+├── app.jsx
+└── manifest.json
